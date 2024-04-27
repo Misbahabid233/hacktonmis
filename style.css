@@ -1,0 +1,20 @@
+.divcustom{
+    background-color: #F6F2FF;
+    ;
+}
+ul  li a {
+    color: black !important;
+}
+.btncustom{
+ background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%) !important;
+ color: white;
+}
+.seccustom{
+   background-color: transparent !important;
+}
+.divcustom{
+    background: linear-gradient(#b8a3eb) !important;  
+}
+.imgcustom{
+    background-image: #d7b1ee;
+}
