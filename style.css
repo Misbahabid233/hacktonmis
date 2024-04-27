@@ -1,6 +1,6 @@
 .divcustom{
     background-color: #F6F2FF;
-    ;
+  
 }
 ul  li a {
     color: black !important;
@@ -16,5 +16,6 @@ ul  li a {
     background: linear-gradient(#b8a3eb) !important;  
 }
 .imgcustom{
-    background-image: #d7b1ee;
+    background-image: url(images/Shadow.png );
+   
 }
